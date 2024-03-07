@@ -21,6 +21,12 @@ We want to change the Attack On Titan gaming scenario once for all with a great 
 - A police system, like Grand Theft Auto
 - Implement all weapons of the manga
 
+## Chat
+
+You can join in our discussion rooms on Matrix [here](https://matrix.to/#/#foss-supremacy-join:matrix.org).
+
+Once you join, request for an invite to the Matrix space.
+
 ## How To Contribute
 
 - Download the [Godot Engine](https://godotengine.org/) (normal variant, not C#)
