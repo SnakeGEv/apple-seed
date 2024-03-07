@@ -2,6 +2,8 @@
 
 An open-world game inspired by [Roark's Attack On Titan](https://roarkdev.itch.io/raot)
 
+## Motivation
+
 [Attack On Titan](https://en.wikipedia.org/wiki/Attack_on_Titan) is a wonderful manga with a deep and sad history, while the anime is good, the games not.
 
 The Attack On Titan games has complex mechanics and bad performance for low/mid-end computers, killing the fun to play the game.
