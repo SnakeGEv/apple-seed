@@ -23,6 +23,10 @@ We want to change the Attack On Titan gaming scenario once for all with a great 
 - A police system, like Grand Theft Auto
 - Implement all weapons of the manga
 
+## Game Design
+
+- [Game Design](https://github.com/FOSS-Supremacy/apple-seed/wiki/Game-Design)
+
 ## Chat
 
 You can join in our Matrix [here](https://matrix.to/#/#foss-supremacy-join:matrix.org).
