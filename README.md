@@ -25,7 +25,7 @@ We want to change the Attack On Titan gaming scenario once for all with a great 
 
 ## Game Design
 
-- [Game Design](https://github.com/FOSS-Supremacy/apple-seed/wiki/Game-Design)
+- [Game Design](gdd.md)
 
 ## Chat
 
