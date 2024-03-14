@@ -1,3 +1,5 @@
+# Game Design
+
 Apple Seed is an 3D single-player/multiplayer open-world game focused on dynamic gameplay, simple mechanics and fun.
 
 On this game you control a 3D player that can stay idle, walk, run, fly and attack with many weapons, the world is a mix of forests, hills, rivers and big flat lands of grass.
